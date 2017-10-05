@@ -37,7 +37,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: Arita Dotum;
+    font-family: 'Arita Dotum';
     src: url('../fonts/AritaDotum/AritaDotumSemiBold.eot');
     src: url('../fonts/AritaDotum/AritaDotumSemiBold.eot?#iefix') format("embedded-opentype"),
          url('../fonts/AritaDotum/AritaDotumSemiBold.woff') format("woff"),
